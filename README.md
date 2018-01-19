@@ -14,7 +14,7 @@ https://github.com/PlexVPN/Download/raw/master/Mac.pkg
 ## Android端请点击以下链接：
 https://github.com/PlexVPN/Download/raw/master/Android.apk
 
-或点击下面链接进入到Google Play下载：
+或点击此链接进入到Google Play下载：
 https://play.google.com/store/apps/details?id=com.shoplex.plex
 
 此安装包支持Android 4.4+
@@ -23,6 +23,7 @@ https://play.google.com/store/apps/details?id=com.shoplex.plex
 https://itunes.apple.com/app/id1181327338
 
 此安装包支持iOS 9+，由于IOS端已从中国区App Store下架，请使用下方账户前往美国区下载：
+
 苹果账户： iplex7@126.com 密码： Plexuser2
 
 苹果账户： iplex8@163.com 密码： Plexuser2
