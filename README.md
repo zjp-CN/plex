@@ -12,7 +12,7 @@ https://github.com/PlexVPN/plex/raw/master/Plex-Mac.pkg
 此安装包仅支持macOS/OS X 10.9+版本；
 
 ## Android端请点击以下链接：
-https://github.com/PlexVPN/plex/raw/master/Plex-Android.apk
+https://github.com/PlexVPN/plex/blob/master/Plex_Android%20v3.1.0.apk
 
 或点击此链接进入到Google Play下载：
 https://play.google.com/store/apps/details?id=com.shoplex.plex
