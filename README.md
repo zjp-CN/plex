@@ -2,17 +2,17 @@
 PlexVPN各端最新版下载地址
 
 ## Windows端请点击下面链接：
-https://github.com/PlexVPN/plex/raw/master/Plex-Windows.exe
+https://github.com/PlexVPN/plex/raw/master/Plex-Windows-v3.0.34.1817.exe
 
 此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件，再进行下载安装；
 
 ## Mac端请点击以下链接：
-https://github.com/PlexVPN/plex/raw/master/Plex-Mac.pkg
+https://github.com/PlexVPN/plex/raw/master/Plex-Mac-v3.0.0.pkg
 
 此安装包仅支持macOS/OS X 10.9+版本；
 
 ## Android端请点击以下链接：
-https://github.com/PlexVPN/plex/blob/master/Plex_Android%20v3.1.0.apk
+https://github.com/PlexVPN/plex/raw/master/Plex-Android-v3.1.0.apk
 
 或点击此链接进入到Google Play下载：
 https://play.google.com/store/apps/details?id=com.shoplex.plex
