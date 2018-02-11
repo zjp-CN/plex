@@ -17,7 +17,10 @@ https://github.com/PlexVPN/plex/raw/master/Plex-Android-v3.1.0.apk
 或点击此链接进入到Google Play下载：
 https://play.google.com/store/apps/details?id=com.shoplex.plex
 
-此安装包支持Android 4.4+
+我们为Android版本增加了一个免费线路的功能，但该功能还处于不稳定阶段，如果你想使用我们的免费线路，请使用下面链接地址下载：
+https://github.com/PlexVPN/plex/raw/master/Plex-Android-v3.2.0-beta.apk
+
+Android安装包支持Android 4.4+
 
 ## IOS端请点击以下链接进入到Apple Store下载：
 https://itunes.apple.com/app/id1181327338
