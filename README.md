@@ -29,4 +29,4 @@ https://itunes.apple.com/app/id1181327338
 
 苹果账户： iplex7@126.com 密码： Plexuser2
 
-苹果账户： iplex8@163.com 密码： Plexuser2
+苹果账户： iplex8@163.com 密码： Plexuser3
