@@ -6,7 +6,7 @@ PlexVPN各端最新版下载地址
 QT版本：
 https://github.com/PlexVPN/plex/raw/master/PlexQt_Setup_4.0.1.exe
 
-WPF版本
+WPF版本:
 https://github.com/PlexVPN/plex/raw/master/Plex-Windows-v3.0.34.1817.exe
 
 此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
