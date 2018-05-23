@@ -31,5 +31,6 @@ https://itunes.apple.com/app/id1181327338
 
 用户名iplex2@126.com 密码Plexuser03
 
-用户名iplex5@126.com 密码Plexuser04
+用户名iplex5@126.com 密码Plexuser05
 
+用户名iplex1@163.com 密码 Plexuser1
