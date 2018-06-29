@@ -4,7 +4,7 @@ PlexVPN各端最新版下载地址
 ## Windows端请点击下面链接：
 
 QT版本：
-https://github.com/PlexVPN/plex/raw/master/PlexQt_Setup_4.0.3.exe
+https://github.com/PlexVPN/plex/blob/master/Plex-Windows-Qt_Setup_4.1.3.exe?raw=true
 
 WPF版本:
 https://github.com/PlexVPN/plex/raw/master/Plex-Windows-v3.0.34.1817.exe
@@ -17,7 +17,8 @@ https://github.com/PlexVPN/plex/blob/master/Plex-Mac-Qt_4.1.0.dmg?raw=true
 此安装包仅支持macOS/OS X 10.9+版本；
 
 ## Android端请点击以下链接：
-https://github.com/PlexVPN/plex/raw/master/Plex-Android-v3.2.0.apk
+安卓3.1.0版本 https://github.com/PlexVPN/plex/blob/master/Plex-Android-v3.1.0.apk?raw=true
+安卓3.2.0版本 https://github.com/PlexVPN/plex/raw/master/Plex-Android-v3.2.0.apk
 
 或点击此链接进入到Google Play下载：
 https://play.google.com/store/apps/details?id=com.shoplex.plex
