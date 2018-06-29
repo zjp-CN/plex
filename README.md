@@ -18,6 +18,7 @@ https://github.com/PlexVPN/plex/blob/master/Plex-Mac-Qt_4.1.0.dmg?raw=true
 
 ## Android端请点击以下链接：
 安卓3.1.0版本 https://github.com/PlexVPN/plex/blob/master/Plex-Android-v3.1.0.apk?raw=true
+
 安卓3.2.0版本 https://github.com/PlexVPN/plex/raw/master/Plex-Android-v3.2.0.apk
 
 或点击此链接进入到Google Play下载：
