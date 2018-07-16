@@ -31,7 +31,7 @@ https://itunes.apple.com/app/id1181327338
 
 此安装包支持iOS 9+，由于IOS端已从中国区App Store下架，请使用下方账户前往美国区下载：
 
-用户名iplex2@126.com 密码Plexuser06
+用户名iplex2@126.com 密码Plexuser07
 
 用户名iplex5@126.com 密码Plexuser06
 
