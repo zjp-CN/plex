@@ -29,7 +29,7 @@ Android安装包支持Android 4.4+
 ## IOS端请点击以下链接进入到Apple Store下载：
 https://itunes.apple.com/app/id1181327338
 
-此安装包支持iOS 9+，由于IOS端已从中国区App Store下架，请使用下方账户前往美国区下载：
+此安装包支持iOS 9+，由于IOS端已从中国区App Store下架，请使用下方账户前往美国区下载（搜plexvpn）：
 
 用户名iplex2@126.com 密码Plexuser08
 
