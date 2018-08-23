@@ -4,7 +4,7 @@ PlexVPN各端最新版下载地址
 ## Windows端请点击下面链接：
 
 QT版本：
-https://github.com/PlexVPN/plex/blob/master/Plex-Windows-Qt_Setup_4.1.3.exe?raw=true
+https://github.com/PlexVPN/plex/blob/master/Plex-Windows-Qt_Setup_4.1.5.exe?raw=true
 
 WPF版本:
 https://github.com/PlexVPN/plex/raw/master/Plex-Windows-v3.0.34.1817.exe
@@ -33,7 +33,7 @@ https://itunes.apple.com/app/id1181327338
 
 用户名iplex2@126.com 密码Plexuser08
 
-用户名iplex5@126.com 密码Plexuser06
+用户名iplex5@126.com 密码Plexuser07
 
 ## Ubuntu客户端端请点击以下链接：
 https://github.com/PlexVPN/plex/blob/master/Plex-Qt-ubuntu-4.1.0.zip?raw=true
