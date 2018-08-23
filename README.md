@@ -33,7 +33,7 @@ https://itunes.apple.com/app/id1181327338
 
 用户名iplex2@126.com 密码Plexuser08
 
-用户名iplex5@126.com 密码Plexuser06
+用户名iplex5@126.com 密码Plexuser07
 
 ## Ubuntu客户端端请点击以下链接：
 https://github.com/PlexVPN/plex/blob/master/Plex-Qt-ubuntu-4.1.0.zip?raw=true
