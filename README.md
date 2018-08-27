@@ -17,7 +17,7 @@ https://github.com/PlexVPN/plex/blob/master/Plex-Mac-Qt_4.1.2.dmg?raw=true
 此安装包仅支持macOS/OS X 10.9+版本；
 
 ## Android端请点击以下链接：
-安卓3.2.2版本 https://github.com/PlexVPN/plex/blob/master/Plex-Android-v3.2.2.apk?raw=true
+安卓3.2.3版本 https://github.com/PlexVPN/plex/blob/master/Plex-Android-v3.2.3.apk?raw=true
 
 或点击此链接进入到Google Play下载：
 https://play.google.com/store/apps/details?id=com.shoplex.plex
