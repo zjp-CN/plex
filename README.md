@@ -17,7 +17,7 @@ https://github.com/PlexVPN/plex/blob/master/Plex-Mac-Qt_4.1.2.dmg?raw=true
 此安装包仅支持macOS/OS X 10.9+版本；
 
 ## Android端请点击以下链接：
-安卓3.2.3版本 https://github.com/PlexVPN/plex/blob/master/Plex-Android-v3.2.3.apk?raw=true
+安卓3.2.4版本 https://github.com/PlexVPN/plex/blob/master/Plex-Android-v3.2.4.apk?raw=true
 
 或点击此链接进入到Google Play下载：
 https://play.google.com/store/apps/details?id=com.shoplex.plex
@@ -29,9 +29,11 @@ https://itunes.apple.com/app/id1181327338
 
 此安装包支持iOS 9+，由于IOS端已从中国区App Store下架，请使用下方账户前往美国区下载（搜plexvpn）：
 
-用户名iplex2@126.com 密码Plexuser09
+用户名iplex2@126.com 密码Plexuser10
 
 用户名iplex5@126.com 密码Plexuser07
+
+为了确保Apple ID长久使用，如果遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用的。谢谢配合。
 
 ## Ubuntu客户端端请点击以下链接：
 https://github.com/PlexVPN/plex/blob/master/Plex-Qt-ubuntu-4.1.0.zip?raw=true
