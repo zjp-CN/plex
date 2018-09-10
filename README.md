@@ -31,7 +31,7 @@ https://itunes.apple.com/app/id1181327338
 
 用户名iplex2@126.com 密码Plexuser10
 
-用户名iplex5@126.com 密码Plexuser07
+用户名iplex5@126.com 密码Plexuser08
 
 为了确保Apple ID长久使用，如果遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用的。谢谢配合。
 
