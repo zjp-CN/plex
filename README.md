@@ -29,7 +29,7 @@ Android安装包支持Android 4.4+
 
 用户名： p9sjlj9meq@icloud.com  密码：Plexuser3
 
-为了确保Apple ID长久使用，如果遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用的。谢谢配合。
+为了确保Apple ID长久使用，如果遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用；谢谢配合
 
 ## Ubuntu客户端端请点击以下链接：
 https://github.com/PlexVPN/plex/raw/master/PlexQt-ubuntu-4.1.7-openssl.zip
