@@ -28,6 +28,7 @@ Android安装包支持Android 4.4+
 此安装包支持iOS 9+，由于IOS端已从中国区App Store下架，请使用下方账户前往美国区下载（搜plexvpn）：
 
 用户名：xtwualrqe27876@163.com 密码：Plexuser9
+
 用户名：myymeblev14360@163.com 密码：Plexuser1
 
 为了确保Apple ID长久使用，如果遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用；谢谢配合
