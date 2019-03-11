@@ -19,6 +19,9 @@ https://github.com/PlexVPN/plex/releases/download/android.v3.4.2/Plex.Mac.Qt_4.2
 ## Android端请点击以下链接：
 安卓3.5.3版本 https://github.com/PlexVPN/plex/releases/download/android.v3.5.3/Plex-Android-v3.5.3.apk
 
+安装有问题的用户请下载这个兼容版本：
+https://github.com/PlexVPN/plex/raw/master/Plex-Android-x64.v3.5.3.apk
+
 或点击此链接进入到Google Play下载：
 https://play.google.com/store/apps/details?id=com.shoplex.plex
 
@@ -29,7 +32,7 @@ Android安装包支持Android 4.4+
 
 用户名：xtwualrqe27876@163.com 密码：Plexuser12
 
-用户名：myymeblev14360@163.com密码：Plexuser7
+用户名：myymeblev14360@163.com 密码：Plexuser7
 
 为了确保Apple ID长久使用，如果遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用；谢谢配合
 
