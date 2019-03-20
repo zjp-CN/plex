@@ -4,20 +4,20 @@ PlexVPN各端最新版下载地址
 ## Windows端请点击下面链接：
 
 QT版本：
-https://github.com/PlexVPN/plex/releases/download/android.v3.4.2/Plex-Windows-Qt_Setup_4.2.4.exe
+https://github.com/PlexVPN/plex/releases/download/2019-03-07/Plex-Windows-Qt_Setup_4.2.4.exe
 
 WPF版本:
-https://github.com/PlexVPN/plex/releases/download/android.v3.4.2/Plex-Windows-v3.0.34.1817.exe
+https://github.com/PlexVPN/plex/releases/download/2019-03-07/Plex-Windows-v3.0.34.1817.exe
 
 此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
 ## Mac端请点击以下链接：
-https://github.com/PlexVPN/plex/releases/download/android.v3.4.2/Plex.Mac.Qt_4.2.4.dmg
+https://github.com/PlexVPN/plex/releases/download/2019-03-07/Plex.Mac.Qt_4.2.4.dmg
 
 此安装包仅支持macOS/OS X 10.9+版本；
 
 ## Android端请点击以下链接：
-安卓3.5.3版本 https://github.com/PlexVPN/plex/releases/download/android.v3.5.3/Plex-Android-v3.5.3.apk
+安卓3.5.3版本 https://github.com/PlexVPN/plex/releases/download/android.v3.5.3.stable/Plex-Android-v3.5.3.apk
 
 安装有问题的用户请下载这个兼容版本：
 https://github.com/PlexVPN/plex/raw/master/Plex-Android-x64.v3.5.3.apk
@@ -37,6 +37,6 @@ Android安装包支持Android 4.4+
 为了确保Apple ID长久使用，如果遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用；谢谢配合
 
 ## Ubuntu客户端端请点击以下链接：
-https://github.com/PlexVPN/plex/releases/download/android.v3.4.2/PlexQt-ubuntu-4.2.4-openssl.zip
+https://github.com/PlexVPN/plex/releases/download/2019-03-07/PlexQt-ubuntu-4.2.4-openssl.zip
 
 此安装包支持Ubuntu LTS 14.04+版本
