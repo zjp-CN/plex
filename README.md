@@ -17,7 +17,7 @@ https://github.com/PlexVPN/plex/releases/download/2019-03-07/Plex.Mac.Qt_4.2.4.d
 此安装包仅支持macOS/OS X 10.9+版本；
 
 ## Android端请点击以下链接：
-安卓3.5.3版本 https://github.com/PlexVPN/plex/releases/download/android.v3.6.0/Plex-Android-v3.6.0.apk
+安卓3.6.0版本 https://github.com/PlexVPN/plex/releases/download/android.v3.6.0/Plex-Android-v3.6.0.apk
 
 安装有问题的用户请下载这个兼容版本：
 https://github.com/PlexVPN/plex/raw/master/Plex-Android-x64.v3.5.3.apk
