@@ -17,7 +17,7 @@ https://github.com/PlexVPN/plex/releases/download/qt.v4.2.6/Plex.Mac.Qt_4.2.6.dm
 此安装包仅支持macOS/OS X 10.9+版本；
 
 ## Android端请点击以下链接：
-安卓3.6.2版本 https://github.com/PlexVPN/plex/releases/download/android.v3.6.2/Plex-Android-v3.6.2.apk
+安卓3.6.4版本 https://github.com/PlexVPN/plex/releases/download/android.v3.6.4/Plex-Android-v3.6.4.apk
 
 安装有问题的用户请下载这个兼容版本：
 https://github.com/PlexVPN/plex/raw/master/Plex-Android-x64.v3.5.3.apk
