@@ -4,7 +4,7 @@ PlexVPN各端最新版下载地址
 ## Windows端请点击下面链接：
 
 QT版本：
-https://github.com/PlexVPN/plex/releases/download/qt.v4.2.6/Plex-Windows-Qt_Setup_4.2.6.exe
+https://github.com/PlexVPN/plex/releases/download/qt.v5.0.1/PlexQt_Setup_5.0.1.exe
 
 WPF版本:
 https://github.com/PlexVPN/plex/releases/download/2019-03-07/Plex-Windows-v3.0.34.1817.exe
@@ -12,7 +12,7 @@ https://github.com/PlexVPN/plex/releases/download/2019-03-07/Plex-Windows-v3.0.3
 此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
 ## Mac端请点击以下链接：
-https://github.com/PlexVPN/plex/releases/download/qt.v4.2.6/Plex.Mac.Qt_4.2.6.dmg
+https://github.com/PlexVPN/plex/releases/download/qt.v5.0.1/PlexQt_5.0.1.dmg
 
 此安装包仅支持macOS/OS X 10.9+版本；
 
@@ -37,6 +37,6 @@ Android安装包支持Android 4.4+
 为了确保Apple ID长久使用，如果遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用；谢谢配合
 
 ## Ubuntu客户端端请点击以下链接：
-https://github.com/PlexVPN/plex/releases/download/qt.v4.2.6/PlexQt-ubuntu-4.2.6-openssl.zip
+https://github.com/PlexVPN/plex/releases/download/qt.v5.0.1/PlexQt-ubuntu-5.0.1-openssl.zip
 
 此安装包支持Ubuntu LTS 14.04+版本
