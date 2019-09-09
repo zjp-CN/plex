@@ -32,7 +32,7 @@ Android安装包支持Android 4.4+
 
 用户名：xtwualrqe27876@163.com密码：Plexuser16
 
-用户名：plexv1@163.com密码：Plexuser11
+用户名：plexv1@163.com密码：Plexuser12
 
 为了确保Apple ID长久使用，如果遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用；谢谢配合
 
