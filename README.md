@@ -19,6 +19,8 @@ https://github.com/PlexVPN/plex/releases/download/qt.v5.0.3/Plex-MacOS-Qt-v5.0.3
 ## Ubuntu端请点击以下链接：
 https://github.com/PlexVPN/plex/releases/download/qt.v5.0.3/Plex-Ubuntu-Qt-v5.0.3.AppImage
 
+此安装包支持Ubuntu LTS 14.04+版本
+
 ## Android端请点击以下链接：
 安卓3.8.3版本 https://github.com/PlexVPN/plex/releases/download/android.v3.8.3/Plex-Android-v3.8.3.apk
 
@@ -37,9 +39,4 @@ Android安装包支持Android 4.4+
 
 用户名：plexv1@163.com密码：Plexuser12
 
-为了确保Apple ID长久使用，如果遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用；谢谢配合
-
-## Ubuntu客户端端请点击以下链接：
-https://github.com/PlexVPN/plex/releases/download/qt.v5.0.2/PlexQt-ubuntu-5.0.2-openssl.zip
-
-此安装包支持Ubuntu LTS 14.04+版本
+为了确保Apple ID长久使用，如果遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用；谢谢配合！
