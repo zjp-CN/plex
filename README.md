@@ -19,7 +19,7 @@ https://github.com/PlexVPN/plex/releases/download/qt.v5.0.3/Plex-MacOS-Qt-v5.0.3
 ## Ubuntu端请点击以下链接：
 https://github.com/PlexVPN/plex/releases/download/qt.v5.0.3/Plex-Ubuntu-Qt-v5.0.3.AppImage
 
-此安装包支持Ubuntu LTS 14.04+版本
+此安装包支持Ubuntu LTS 14.04+版本；
 
 ## Android端请点击以下链接：
 安卓3.8.3版本 https://github.com/PlexVPN/plex/releases/download/android.v3.8.3/Plex-Android-v3.8.3.apk
@@ -30,7 +30,7 @@ https://github.com/PlexVPN/plex/raw/master/Plex-Android-x64.v3.5.3.apk
 或点击此链接进入到Google Play下载：
 https://play.google.com/store/apps/details?id=com.shoplex.plex
 
-Android安装包支持Android 4.4+
+Android安装包支持Android 4.4+；
 
 ## IOS端请切换至国外Apple ID，搜PlexVPN下载：
 此安装包支持iOS 9+，由于IOS端已从中国区App Store下架，请使用下方账户前往美国区下载（搜plexvpn）：
