@@ -22,7 +22,7 @@ https://github.com/PlexVPN/plex/releases/download/qt.v5.0.3/Plex-Ubuntu-Qt-v5.0.
 此安装包支持Ubuntu LTS 14.04+版本；
 
 ## Android端请点击以下链接：
-安卓3.8.3版本 https://github.com/PlexVPN/plex/releases/download/android.v3.8.3/Plex-Android-v3.8.3.apk
+安卓3.8.5版本 https://github.com/PlexVPN/plex/releases/download/android.v3.8.5/Plex-Android-v3.8.5.apk
 
 安装有问题的用户请下载这个兼容版本：
 https://github.com/PlexVPN/plex/raw/master/Plex-Android-x64.v3.5.3.apk
