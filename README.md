@@ -40,7 +40,7 @@ AndroidTV安装包支持Android 5.0+；
 ## IOS (Plex VPN)：
 此安装包支持iOS 9+，由于IOS端已从中国区App Store下架，请使用下方账户前往美国区下载（搜plexvpn）：
 
-用户名：xtwualrqe27876@163.com密码：Plexuser01
+用户名：xtwualrqe27876@163.com密码：Plexuser02
 
 用户名：plexv1@163.com密码：Plexuser01
 
