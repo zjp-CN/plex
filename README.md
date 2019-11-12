@@ -25,7 +25,7 @@ https://github.com/PlexVPN/plex/releases/download/qt.v5.1.0/Plex-Ubuntu-Qt-v5.1.
 安卓4.0.0版本 https://github.com/PlexVPN/plex/releases/download/android.v4.0.0/Plex-Android-v4.0.0.apk
 
 安装有问题的用户请下载这个兼容版本：
-https://github.com/PlexVPN/plex/raw/master/Plex-Android-x64.v3.5.3.apk
+https://github.com/PlexVPN/plex/raw/master/Plex-Android-x64.v3.2.9.apk
 
 或点击此链接进入到Google Play下载：
 https://play.google.com/store/apps/details?id=com.shoplex.plex
