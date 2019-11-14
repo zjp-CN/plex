@@ -12,7 +12,7 @@ https://github.com/PlexVPN/plex/releases/download/2019-03-07/Plex-Windows-v3.0.3
 此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
 ## MAC：
-https://github.com/PlexVPN/plex/releases/download/qt.v5.0.4/Plex-MacOS-Qt-v5.1.0.dmg
+https://github.com/PlexVPN/plex/releases/download/qt.v5.1.0/Plex-MacOS-Qt-v5.1.0.dmg
 
 此安装包仅支持macOS/OS X 10.9+版本；
 
