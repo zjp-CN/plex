@@ -33,7 +33,7 @@ https://play.google.com/store/apps/details?id=com.shoplex.plex
 Android安装包支持Android 4.4+；
 
 ## AndroidTV (PlexVPN for TV - Best Premium Unlimited VPN Proxy)：
-安卓TV1.0.0版本 https://github.com/PlexVPN/plex/releases/download/androidtv.v1.0.0/Plex-AndroidTV-v1.0.0.apk
+安卓TV1.0.0版本 https://github.com/PlexVPN/plex/releases/download/androidtv.v1.1.0/Plex-AndroidTV-v1.1.0.apk
 
 AndroidTV安装包支持Android 5.0+；
 
