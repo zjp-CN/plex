@@ -3,10 +3,10 @@ PlexVPN各端最新版下载地址
 
 ## WINDOWS：
 
-QT版本：
+QT版本(最新)：
 https://github.com/PlexVPN/plex/releases/download/qt.v5.1.0/Plex-Windows-Qt-v5.1.0.exe
 
-WPF版本:
+.NET版本（备用）:
 https://github.com/PlexVPN/plex/releases/download/2019-03-07/Plex-Windows-v3.0.34.1817.exe
 
 此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
@@ -38,6 +38,9 @@ Android安装包支持Android 4.4+；
 AndroidTV安装包支持Android 5.0+；
 
 ## IOS (Plex VPN)：
+
+https://apps.apple.com/us/app/plexvpn/id1181327338?l=zh&ls=1
+
 此安装包支持iOS 9+，由于IOS端已从中国区App Store下架，请使用下方账户前往美国区下载（搜plexvpn）：
 
 用户名：xtwualrqe27876@163.com密码：Plexuser02
