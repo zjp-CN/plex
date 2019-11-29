@@ -48,3 +48,15 @@ https://apps.apple.com/us/app/plexvpn/id1181327338?l=zh&ls=1
 用户名：plexv1@163.com密码：Plexuser01
 
 为了确保Apple ID长久使用，如果遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用；谢谢配合！
+
+### 注意：（重要！！！）
+1. 请在AppStore里面登录美区账号（不要在设置里登录）
+2. 下载完Plex以后，请及时退出账号
+
+请务必遵守以上2条，不然手机有被锁的风险！
+
+Note: (Important !!!)
+1. Please log in to the US AppleID in the AppStore ( not in the settings)
+2. After downloading Plex, please log out it in time
+
+Please follow the above 2 steps, otherwise your phone could be locked!
