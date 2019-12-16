@@ -43,7 +43,7 @@ https://apps.apple.com/us/app/plexvpn/id1181327338?l=zh&ls=1
 
 此安装包支持iOS 9+，由于IOS端已从中国区App Store下架，请使用下方账户前往美国区下载（搜plexvpn）：
 
-用户名：xtwualrqe27876@163.com密码：Plexuser02
+用户名：xtwualrqe27876@163.com密码：Plexuser03
 
 用户名：plexv1@163.com密码：Plexuser02
 
