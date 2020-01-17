@@ -22,7 +22,7 @@ https://github.com/PlexVPN/plex/releases/download/qt.v5.4.1/Plex-Ubuntu-Qt-v5.4.
 此安装包支持Ubuntu LTS 14.04+版本；
 
 ## Android (PlexVPN - Best Premium Unlimited VPN Proxy)：
-安卓4.1.2版本 https://github.com/PlexVPN/plex/releases/download/android.v4.1.2/Plex-Android-v4.1.2.apk
+安卓4.1.3版本 https://github.com/PlexVPN/plex/releases/download/android.v4.1.3/Plex-Android-v4.1.3.apk
 
 安装有问题的用户请下载这个兼容版本：
 https://github.com/PlexVPN/plex/raw/master/Plex-Android-x64.v3.2.9.apk
