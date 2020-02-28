@@ -14,7 +14,7 @@ https://github.com/PlexVPN/plex/releases/download/2019-03-07/Plex-Windows-v3.0.3
 ## MAC：
 https://github.com/PlexVPN/plex/releases/download/qt.v5.4.1/Plex-MacOS-Qt-v5.4.1.dmg
 
-此安装包仅支持macOS/OS X 10.9+版本；
+此安装包仅支持macOS/OS X 10.10+版本；
 
 最新版本有问题的请下载：
 https://github.com/PlexVPN/plex/releases/download/qt.v3.0.0/Plex-MacOS-Qt-v3.0.0.dmg
