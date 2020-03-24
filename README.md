@@ -4,7 +4,7 @@ PlexVPN各端最新版下载地址
 ## WINDOWS：
 
 QT版本(最新)：
-https://github.com/PlexVPN/plex/releases/download/qt.v5.4.2/Plex-Windows-Qt-v5.4.2.exe
+https://github.com/PlexVPN/plex/releases/download/qt.v5.4.3/Plex-Windows-Qt-v5.4.3.exe
 
 .NET版本（备用）:
 https://github.com/PlexVPN/plex/releases/download/2019-03-07/Plex-Windows-v3.0.34.1817.exe
@@ -12,7 +12,7 @@ https://github.com/PlexVPN/plex/releases/download/2019-03-07/Plex-Windows-v3.0.3
 此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
 ## MAC：
-https://github.com/PlexVPN/plex/releases/download/qt.v5.4.2/Plex-MacOS-Qt-v5.4.2.dmg
+https://github.com/PlexVPN/plex/releases/download/qt.v5.4.3/Plex-MacOS-Qt-v5.4.3.dmg
 
 此安装包仅支持macOS/OS X 10.10+版本；
 
@@ -20,7 +20,7 @@ https://github.com/PlexVPN/plex/releases/download/qt.v5.4.2/Plex-MacOS-Qt-v5.4.2
 https://github.com/PlexVPN/plex/releases/download/qt.v3.0.0/Plex-MacOS-Qt-v3.0.0.dmg
 
 ## UBUNTU：
-https://github.com/PlexVPN/plex/releases/download/qt.v5.4.2/Plex-Ubuntu-Qt-v5.4.2.AppImage
+https://github.com/PlexVPN/plex/releases/download/qt.v5.4.3/Plex-Ubuntu-Qt-v5.4.3.AppImage
 
 此安装包支持Ubuntu LTS 14.04+版本；
 
