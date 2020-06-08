@@ -4,7 +4,7 @@ PlexVPN各端最新版下载地址
 ## WINDOWS：
 
 QT版本(最新)：
-https://github.com/PlexVPN/plex/releases/download/qt.v5.5.0/Plex-Windows-Qt-v5.5.0.exe
+https://github.com/PlexVPN/plex/releases/download/qt.v5.5.1/Plex-Windows-Qt-v5.5.1.exe
 
 .NET版本（备用）:
 https://github.com/PlexVPN/plex/releases/download/2019-03-07/Plex-Windows-v3.0.34.1817.exe
@@ -12,7 +12,7 @@ https://github.com/PlexVPN/plex/releases/download/2019-03-07/Plex-Windows-v3.0.3
 此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
 ## MAC：
-https://github.com/PlexVPN/plex/releases/download/qt.v5.5.0/Plex-MacOS-Qt-v5.5.0.dmg
+https://github.com/PlexVPN/plex/releases/download/qt.v5.5.1/Plex-MacOS-Qt-v5.5.1.dmg
 
 此安装包仅支持macOS/OS X 10.10+版本；
 
@@ -20,12 +20,12 @@ https://github.com/PlexVPN/plex/releases/download/qt.v5.5.0/Plex-MacOS-Qt-v5.5.0
 https://github.com/PlexVPN/plex/releases/download/qt.v3.0.0/Plex-MacOS-Qt-v3.0.0.dmg
 
 ## UBUNTU：
-https://github.com/PlexVPN/plex/releases/download/qt.v5.5.0/Plex-Ubuntu-Qt-v5.5.0.AppImage
+https://github.com/PlexVPN/plex/releases/download/qt.v5.5.1/Plex-Ubuntu-Qt-v5.5.1.AppImage
 
 此安装包支持Ubuntu LTS 14.04+版本；
 
 ## Android (PlexVPN - Best Premium Unlimited VPN Proxy)：
-安卓4.4.0版本 https://github.com/PlexVPN/plex/releases/download/android.v4.4.0/Plex-Android-v4.4.0.apk
+安卓4.4.0版本 https://github.com/PlexVPN/plex/releases/download/android.v4.4.1/Plex-Android-v4.4.1.apk
 
 安装有问题的用户请下载这个兼容版本：
 https://github.com/PlexVPN/plex/releases/download/android.v3.2.9.stable/Plex-Android-x64.v3.2.9.apk
