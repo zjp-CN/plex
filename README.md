@@ -22,7 +22,7 @@ https://github.com/PlexVPN/plex/releases/download/qt.v3.0.0/Plex-MacOS-Qt-v3.0.0
 ## UBUNTU：
 https://github.com/PlexVPN/plex/releases/download/qt.v6.0.0/Plex-Ubuntu-Qt-v6.0.0.AppImage
 
-此安装包支持Ubuntu LTS 14.04+版本；
+此安装包支持Ubuntu LTS 16.04+版本；
 
 ## Android (PlexVPN - Best Premium Unlimited VPN Proxy)：
 安卓4.6.3版本 https://github.com/PlexVPN/plex/releases/download/android.v4.6.3/Plex-Android-v4.6.3.apk
