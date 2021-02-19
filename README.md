@@ -61,7 +61,7 @@ https://apps.apple.com/us/app/plexvpn/id1181327338?l=zh&ls=1
 
 请务必阅读并遵守以上注意事项，感谢您的配合。
 
-Precautions for users：
+### Precautions for users：
 
 Please switch the public Apple ID in the App Store instead of settings or the Apple official website.
 Don’t forget to log out in time after downloading Plex to avoid your phone being locked.
