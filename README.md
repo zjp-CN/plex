@@ -51,7 +51,7 @@ https://apps.apple.com/us/app/plexvpn/id1181327338?l=zh&ls=1
 
 用户名：plexv9@hotmail.com密码：OfficialService1
 
-用户名：plexv8@hotmail.com密码：Plexuser2
+用户名：plexv8@hotmail.com密码：OfficialService2
 
 为了确保Apple ID长久使用，如果遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用；谢谢配合！
 
