@@ -63,7 +63,7 @@ https://apps.apple.com/us/app/plexvpn/id1181327338?l=zh&ls=1
 
 ### Precautions for users：
 
-Please switch the public Apple ID in the App Store or in the iPhone Settings-Media& Purchases instead of the Apple official website.
-Don’t forget to log out in time after downloading Plex to avoid your phone being locked.
+1.Please switch the public Apple ID in the App Store or in the iPhone Settings-Media& Purchases instead of the Apple official website.
+2.Don’t forget to log out in time after downloading Plex to avoid your phone being locked.
 
 Please be sure to read and follow the above precautions. Thanks for your cooperation.
