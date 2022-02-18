@@ -47,13 +47,8 @@ AndroidTV安装包支持Android 5.0+；
 
 https://apps.apple.com/us/app/plexvpn/id1181327338?l=zh&ls=1
 
-此安装包支持iOS 10+，请使用下方账户前往美国区下载（搜plexvpn）：
+此安装包支持iOS 10+，部分地区无法下载应用，请按照教程修改Apple id地区后再进行下载 https://www.plexvpn.pro/region-tutorial-iOS
 
-用户名：plexv3@hotmail.com 密码：OfficialService1
-
-用户名：plexv6@outlook.com 密码：OfficialService7
-
-为了确保Apple ID长久使用，如果遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用；谢谢配合！
 
 ### 注意事项：
 1.请在App Store中或iPhone设置-媒体与购买项目中切换美区Apple ID（不要在苹果官网上切换）;
