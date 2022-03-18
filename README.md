@@ -36,7 +36,7 @@ https://play.google.com/store/apps/details?id=com.shoplex.plex
 Android安装包支持Android 5.0+；
 
 ## Android TV (PlexVPN for TV - Best Premium Unlimited VPN Proxy)：
-安卓TV2.0.0版本 https://github.com/PlexVPN/plex/releases/download/androidtv.v2.0.0/Plex-AndroidTV-v2.0.0.apk
+安卓TV2.0.1版本 https://github.com/PlexVPN/plex/releases/download/androidtv.v2.0.1/plex_tv_normal_2.0.1_5_02261600_release.apk
 
 或点击此链接进入到Google Play下载：
 https://play.google.com/store/apps/details?id=com.plexvpn.tv
