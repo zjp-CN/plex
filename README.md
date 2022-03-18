@@ -25,7 +25,7 @@ https://github.com/PlexVPN/plex/releases/download/qt.linux.v6.1.1/PlexQt6.1.1-x8
 此安装包支持Ubuntu LTS 16.04+版本；
 
 ## Android (PlexVPN - Best Premium Unlimited VPN Proxy)：
-安卓4.8.6版本 https://github.com/PlexVPN/plex/releases/download/android.v4.8.6/plex_normal_4.8.6_171_111_12211807_release.apk
+安卓4.8.7版本 https://github.com/PlexVPN/plex/releases/download/android.v4.8.7/plex_normal_4.8.7_174_119_01281015_release.apk
 
 安装有问题的用户请下载这个兼容版本：
 https://github.com/PlexVPN/plex/releases/download/android.v3.2.9.stable/Plex-Android-x64.v3.2.9.apk
